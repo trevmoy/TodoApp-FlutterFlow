@@ -132,7 +132,7 @@ class _DetailsWidgetState extends State<DetailsWidget> {
                               Text(
                                 'Task Details',
                                 style: FlutterFlowTheme.of(context)
-                                    .headlineLarge
+                                    .headlineMedium
                                     .override(
                                       fontFamily: 'Inter',
                                       letterSpacing: 0.0,
