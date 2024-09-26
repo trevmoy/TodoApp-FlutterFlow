@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171488460447",
+    "project_id": "to-do-juhjad",
+    "storage_bucket": "to-do-juhjad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171488460447:android:4b3e094e88000c2addacaa",
+        "android_client_info": {
+          "package_name": "com.mycompany.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpOCUuGcXQNuqfeGW2m5yWj4Ik9cFRbXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
